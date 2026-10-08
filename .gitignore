@@ -1,0 +1,7 @@
+# 대용량 데이터 (GitHub 100MB 제한 초과)
+train_ver2.csv
+*.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
